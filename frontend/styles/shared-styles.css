@@ -1,0 +1,38 @@
+/*
+   CSS styling examples for the Vaadin app.
+   Visit https://vaadin.com/docs/flow/theme/theming-overview.html and
+   https://vaadin.com/themes/lumo for more information.
+*/
+
+/* Example: CSS class name to center align the content . */
+.date_format{
+  width: 40px;
+}
+.dateyear_format{
+  width: 60px;
+}
+.button_search{
+  margin-top: 38px;
+}
+.main-view h1{
+  width: 100%;
+  margin: 0;
+  padding: 16px;
+}
+.f-l{
+  width: 85px;
+  margin: 0;
+}
+.message-list{
+  overflow-y: scroll;
+  width: 100%;
+
+}
+.message-list p{
+  width: 100%;
+}
+.button {background-color: deeppink;
+color: aliceblue;}
+.hLayout{
+  resize: vertical;
+}
